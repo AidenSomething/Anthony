@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CIA Watch List</title>
+    <style>
+        /* Add CSS styling for the warrant */
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 36px;
+            text-transform: uppercase;
+            margin-top: 100px;
+        }
+        
+        p {
+            font-size: 24px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CIA Watch List</h1>
+    <p>Name: <strong>ANTHONY SPINA</strong></p>
+    <p>You are under arrest for capital murder.</p>
+    <p>A warrant has been issued for your arrest.</p>
+    <p><em>Capital murder is a criminal offense involving the unlawful killing of another person, typically with premeditation and under specific circumstances defined by law.</em></p>
+</body>
+</html>
